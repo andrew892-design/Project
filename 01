@@ -1,0 +1,4 @@
+Follow the instructions : 
+1. Visits a URL https://github.com/smart-on-fhir/sample-patients-prom/blob/master/input_files/csv/patient.csv
+2. Extracts specific data from the page 
+3. Saves the extracted data into a text file locally.
